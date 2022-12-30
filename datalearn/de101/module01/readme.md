@@ -18,16 +18,16 @@
 
 В зависимости от выбранного среза меняются показатели KPI и данные по регионам
 
-<img src="./img/dashboard01.jpg" alt="Dashboard01" height="600"/><br>
+<img src="./img/dashboard01.jpg" alt="Dashboard01" width="600"/><br>
 
 А также, распределение по штатам
 
-<img src="./img/dashboard02.jpg" alt="Dashboard02" height="600"/><br>
+<img src="./img/dashboard02.jpg" alt="Dashboard02" width="600"/><br>
 
 Для реализации показателей по KPI использованы по 2 сводные таблицы
 
-<img src="./img/KPIs01.jpg" alt="KPIs01" height="400"/><br>
+<img src="./img/KPIs01.jpg" alt="KPIs01" width="400"/><br>
 
 И в дополнение, 2 таблицы для графика динамики продаж и профита и распределиния по штатам
 
-<img src="./img/pivots01.jpg" alt="pivot01" height="400"/><br>
+<img src="./img/pivots01.jpg" alt="pivot01" width="400"/><br>
