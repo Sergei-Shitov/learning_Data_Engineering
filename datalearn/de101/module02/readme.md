@@ -181,8 +181,8 @@ order by "total profit" desc
 
 ```sql
 select o.customer_id ,
-    round(sum(o.sales), 2) as "sales",
-    round(sum(o.profit), 2) as "profit"
+    round(avg(o.sales), 2) as "sales",
+    round(avg(o.profit), 2) as "profit"
 from orders o 
 group by o.customer_id  
 order by "profit" desc
